@@ -1,0 +1,12 @@
+body{
+    background-color: #1d2630;
+    color: rgba(255, 255, 255, 0.564);
+}
+h1{
+    text-align: center;
+    color: red;
+}
+.form-control{
+    background-color: black;
+    color: red;
+}
